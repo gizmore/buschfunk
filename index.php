@@ -105,8 +105,8 @@ $descr = "ITMB - Software development, System Engineering, Automation and peacef
             <a href="https://www.wechall.net/profile/gizmore"><img src="gizmore.png" alt="Image of an mogwai, aka gizmore."></a>
         </div>
         <div>
-        Keine Sorge. Das ist nur ein harmloser Demo-Hinweis.
-        Trotzdem: niemals fremden Links vertrauen! :)
+            Keine Sorge. Das ist nur ein harmloser Demo-Hinweis.
+            Trotzdem: ungern unbekannten Links vertrauen.
         </div>
       </p>
       <button class="close" onclick="closePwned()">Schließen</button>
@@ -188,3 +188,4 @@ $descr = "ITMB - Software development, System Engineering, Automation and peacef
 
 </body>
 </html>
+
