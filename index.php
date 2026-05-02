@@ -13,7 +13,7 @@ $descr = "ITMB - Software development, System Engineering, Automation and peacef
 
   <meta property="og:title" content="<?=$title?>">
   <meta property="og:description" content="<?=$descr?>">
-  <meta property="og:image" content="https://buschfunk.tv/itmb-logo.png?v=1">
+  <meta property="og:image" content="https://buschtalk.tv/itmb-logo.png?v=1">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:url" content="https://buschfunk.tv/">
@@ -54,6 +54,8 @@ $descr = "ITMB - Software development, System Engineering, Automation and peacef
             <li>E-Mail: <a href="mailto:gizmore@wechall.net">E-Mail</a></li>
             <li>WhatsApp: 0049 176 59 59 88 44</li>
             <li>Telegram: <a href="https://t.me/wc_gizmore">t.me/wc_gizmore</a></li>
+            <li>IRC: <a href="ircs://irc.wechall.net:6697">#wechall</a></li>
+            <li>LAN IRC: <a href="irc://192.168.2.4x:6667">#bauhof15</a></li>
         </ul>
       </p>
     </div>
